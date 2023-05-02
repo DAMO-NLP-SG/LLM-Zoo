@@ -1,6 +1,18 @@
-# LLM-Zoo
+# 🏰 LLM Zoo
 
-# 📖 Open-Sourced LLMs
+As new animal species are being discovered in the world of natural language processing (NLP) 🌍 every day, it becomes necessary to establish a zoo 🦁 to accommodate them.
+
+
+This project collects below information:
+- Release time
+- Model size
+- Languages supported
+- Domain
+- Training data
+- Code
+- etc.
+
+## 📖 Open-Sourced LLMs
 
 | Release Time | Model        | Version                        | Size           | Backbone           | Langs          | Domain   | Training Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | GitHub                                                             | HF                                                                              | Paper                                      | Demo                                                             | Official Blog                                                                                                   |
 | :------------: | :------------: | :------------------------------: | :--------------: | :------------------: | :--------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------: | :-------------------------------------------------------------------------------: | :------------------------------------------: | :----------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: |
@@ -33,4 +45,10 @@
 | 2023.04.22   | HuggingChat  | oasst-sft-6-llama-30b          | 30B            | LLaMA              | multi          | General  | <details><summary><b>detail</b></summary>human-generated, human-annotated assistant-style conversation corpus consisting of 161k messages in 35 languages [[link](https://huggingface.co/datasets/OpenAssistant/oasst1)]</details>                                                                                                                                                                                                                                                                                                                          | [[link](https://github.com/LAION-AI/Open-Assistant)]               | [[link](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)]        | \-                                         | [[link](https://huggingface.co/chat/)]                           | \-                                                                                                              |
 
 
-# 📕 Closed-Sourced LLMs
+## 📕 Closed-Sourced LLMs
+
+
+## 🏗 TODO List
+- [x] Include open-sourced LLMs
+- [x] Include closed-sourced LLMs
+- [ ] Performances of LLMs on various evaluation tasks
