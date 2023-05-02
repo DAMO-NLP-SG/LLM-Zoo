@@ -12,6 +12,9 @@ This project collects below information:
 - Code
 - etc.
 
+We will regularly update 🔄 the repository to keep track of the latest LLMs. We welcome 👐 any contributions to this project. Please feel free to open an issue or submit a pull request to include new LLMs or update the information of existing LLMs 🙏.
+
+
 ## 📖 Open-Sourced LLMs
 
 | Release Time | Model        | Version                        | Size           | Backbone           | Langs          | Domain   | Training Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | GitHub                                                             | HF                                                                              | Paper                                      | Demo                                                             | Official Blog                                                                                                   |
