@@ -51,6 +51,19 @@ We will regularly update 🔄 the repository to keep track of the latest LLMs. W
 ## 📕 Closed-Sourced LLMs
 
 
+## 📝 Citation
+
+If you find this repository useful, please consider citing.
+
+```
+@software{li2023llmzoo,
+  title = {LLM Zoo}
+  author = {Li, Xingxuan and Zhang, Wenxuan and Bing, Lidong},
+  url = {https://github.com/DAMO-NLP-SG/LLM-Zoo},
+  year = {2023}
+}
+```
+
 ## 🏗 TODO List
 - [x] Include open-sourced LLMs
 - [x] Include closed-sourced LLMs
