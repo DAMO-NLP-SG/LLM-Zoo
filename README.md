@@ -3,16 +3,16 @@
 As new animal species are being discovered in the world of natural language processing (NLP) 🌍 every day, it becomes necessary to establish a zoo 🦁 to accommodate them.
 
 
-This project collects below information:
+This project collects below information of various open- and closed-source LLMs (after the release of ChatGPT):
 - Release time
 - Model size
 - Languages supported
 - Domain
 - Training data
-- Code
-- etc.
+- Links to resources: GitHub, HuggingFace, Demo, Paper, Official blog
 
-We will regularly update 🔄 the repository to keep track of the latest LLMs. We welcome 👐 any contributions to this project. Please feel free to open an issue or submit a pull request to include new LLMs or update the information of existing LLMs 🙏.
+## 📰 News
+- [2023.05.03] First release! We will regularly update 🔄 the repository to keep track of the latest LLMs. We welcome 👐 any contributions to this project. Please feel free to open an issue or submit a pull request to include new LLMs or update the information of existing LLMs 🙏.
 
 
 ## 📖 Open-Sourced LLMs
@@ -49,6 +49,23 @@ We will regularly update 🔄 the repository to keep track of the latest LLMs. W
 
 
 ## 📕 Closed-Sourced LLMs
+| Release Time | Model | Version | Size | Langs | Domain | Demo | Official Blog | Paper |
+| :----------: | :---: | :-----: | :---:| :---: | :----: | :----: | :---: | :---: |
+| 2022.11.30 | ChatGPT | gpt-3.5-turbo | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/blog/chatgpt)] | \- | 
+| 2023.03.14 | Claude | Claude Instant</br>Claude-v1 | \- | multi | general | [[link](http://www.poe.com/)] | [[link](https://www.anthropic.com/index/introducing-claude)] | \- |
+| 2023.03.14 | GPT | gpt-4 | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/research/gpt-4)] | [[link](https://arxiv.org/abs/2303.08774)] | 
+| 2023.03.16 | Ernie Bot (文心一言) | \- | \- | zh, en | general | [[link](https://yiyan.baidu.com/)] | [[link](https://yiyan.baidu.com/welcome)] | \- |
+| 2023.03.21 | Bard | \- | \- | multi | general | [[link](https://bard.google.com/)] | [[link](https://blog.google/technology/ai/bard-google-ai-search-updates/)] | \- |
+| 2023.03.30 | BloombergGPT | \- | 50B | en | finance | \- | [[link](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)] | [[link](https://arxiv.org/abs/2303.17564)] |
+| 2023.04.11 | Tongyi Qianwen (通义千问) | \- | \- | multi | general | [[link](https://tongyi.aliyun.com/)] | [[link](https://tongyi.aliyun.com/)] | \- |
+
+
+## 🏗 TODO List
+- [x] Include open-sourced LLMs
+- [x] Include closed-sourced LLMs
+- [ ] Include a systematic review of common training data
+- [ ] Include interesting use cases of various LLMs
+- [ ] Performance of LLMs on various evaluation tasks
 
 
 ## 📝 Citation
@@ -63,8 +80,3 @@ If you find this repository useful, please consider citing.
   year = {2023}
 }
 ```
-
-## 🏗 TODO List
-- [x] Include open-sourced LLMs
-- [x] Include closed-sourced LLMs
-- [ ] Performances of LLMs on various evaluation tasks
