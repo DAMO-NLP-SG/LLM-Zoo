@@ -2,8 +2,8 @@
 
 As new animal species are being discovered in the world of natural language processing (NLP) 🌍 every day, it becomes necessary to establish a zoo 🦁 to accommodate them.
 
-
 This project collects below information of various open- and closed-source LLMs (after the release of ChatGPT):
+
 - Release time
 - Model size
 - Languages supported
@@ -12,8 +12,8 @@ This project collects below information of various open- and closed-source LLMs 
 - Links to resources: GitHub, HuggingFace, Demo, Paper, Official blog
 
 ## 📰 News
-- [2023.05.03] First release! We will regularly update 🔄 the repository to keep track of the latest LLMs. We welcome 👐 any contributions to this project. Please feel free to open an issue or submit a pull request to include new LLMs or update the information of existing LLMs 🙏.
 
+- [2023.05.03] First release! We will regularly update 🔄 the repository to keep track of the latest LLMs. We welcome 👐 any contributions to this project. Please feel free to open an issue or submit a pull request to include new LLMs or update the information of existing LLMs 🙏.
 
 ## 📖 Open-Sourced LLMs
 
@@ -48,26 +48,26 @@ This project collects below information of various open- and closed-source LLMs 
 | 2023.04.22   | HuggingChat  | oasst-sft-6-llama-30b          | 30B            | LLaMA              | multi          | General  | <details><summary><b>detail</b></summary>human-generated, human-annotated assistant-style conversation corpus consisting of 161k messages in 35 languages [[link](https://huggingface.co/datasets/OpenAssistant/oasst1)]</details>                                                                                                                                                                                                                                                                                                                          | [[link](https://github.com/LAION-AI/Open-Assistant)]               | [[link](https://huggingface.co/OpenAssistant/oasst-sft-6-llama-30b-xor)]        | \-                                         | [[link](https://huggingface.co/chat/)]                           | \-                                                                                                              |
 | 2023.06.19   | KnowLM  | zhixi-13b          | 13B            | LLaMA             | zh, en         | General  | <details><summary><b>detail</b></summary>human-generated, machine-generated and Knowledge Graph-generated in Chinese and English [[link](https://huggingface.co/datasets/OpenAssistant/oasst1)]</details>                                                                                                                                                                                                                                                                                                                          | [[link](https://github.com/zjunlp/KnowLM)]               | [[link](https://huggingface.co/zjunlp/zhixi-13b-diff)]        | \-                                         | \-                          | \-                                                                                                              |
 
-
 ## 📕 Closed-Sourced LLMs
+
 | Release Time | Model | Version | Size | Langs | Domain | Demo | Official Blog | Paper |
 | :----------: | :---: | :-----: | :---:| :---: | :----: | :----: | :---: | :---: |
-| 2022.11.30 | ChatGPT | gpt-3.5-turbo | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/blog/chatgpt)] | \- | 
+| 2022.11.30 | ChatGPT | gpt-3.5-turbo | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/blog/chatgpt)] | \- |
 | 2023.03.14 | Claude | Claude Instant</br>Claude-v1 | \- | multi | general | [[link](http://www.poe.com/)] | [[link](https://www.anthropic.com/index/introducing-claude)] | \- |
-| 2023.03.14 | GPT | gpt-4 | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/research/gpt-4)] | [[link](https://arxiv.org/abs/2303.08774)] | 
+| 2023.03.14 | GPT | gpt-4 | \- | multi | general | [[link](https://chat.openai.com/)] | [[link](https://openai.com/research/gpt-4)] | [[link](https://arxiv.org/abs/2303.08774)] |
 | 2023.03.16 | Ernie Bot (文心一言) | \- | \- | zh, en | general | [[link](https://yiyan.baidu.com/)] | [[link](https://yiyan.baidu.com/welcome)] | \- |
 | 2023.03.21 | Bard | \- | \- | multi | general | [[link](https://bard.google.com/)] | [[link](https://blog.google/technology/ai/bard-google-ai-search-updates/)] | \- |
 | 2023.03.30 | BloombergGPT | \- | 50B | en | finance | \- | [[link](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)] | [[link](https://arxiv.org/abs/2303.17564)] |
 | 2023.04.11 | Tongyi Qianwen (通义千问) | \- | \- | multi | general | [[link](https://tongyi.aliyun.com/)] | [[link](https://tongyi.aliyun.com/)] | \- |
-
+| 2023.07.07 | OmModel（欧姆大模型） | \- | \- | multi | general | [[link](https://om.linker.cc/hub/#/home)] | [[link](https://om.linker.cc/hub/#/home)] | \- |
 
 ## 🏗 TODO List
+
 - [x] Include open-sourced LLMs
 - [x] Include closed-sourced LLMs
 - [ ] Include a systematic review of common training data
 - [ ] Include interesting use cases of various LLMs
 - [ ] Performance of LLMs on various evaluation tasks
-
 
 ## 📝 Citation
 
