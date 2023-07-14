@@ -59,7 +59,7 @@ This project collects below information of various open- and closed-source LLMs 
 | 2023.03.21 | Bard | \- | \- | multi | general | [[link](https://bard.google.com/)] | [[link](https://blog.google/technology/ai/bard-google-ai-search-updates/)] | \- |
 | 2023.03.30 | BloombergGPT | \- | 50B | en | finance | \- | [[link](https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/)] | [[link](https://arxiv.org/abs/2303.17564)] |
 | 2023.04.11 | Tongyi Qianwen (通义千问) | \- | \- | multi | general | [[link](https://tongyi.aliyun.com/)] | [[link](https://tongyi.aliyun.com/)] | \- |
-| 2023.07.07 | OmModel（欧姆大模型） | \- | \- | multi | general | [[link](https://om.linker.cc/hub/#/home)] | [[link](https://om.linker.cc/hub/#/home)] | \- |
+| 2023.07.07 | OmModel（欧姆大模型） | \- | \- | multi | general | [[link](https://om.linker.cc)] | [[link](https://om.linker.cc)] | \- |
 
 ## 🏗 TODO List
 
